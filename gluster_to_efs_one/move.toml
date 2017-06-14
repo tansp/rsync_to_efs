@@ -1,0 +1,6 @@
+UploadHttpaddr = "http://192.168.100.98:80"
+UserAk = "qLkoGKZsHZfZKQZrjwdDWeXiu3S_LsSw"
+UserSk = "7ra8DkfSSTy5ix49V3dXDZplUyRNj8Ba"
+CopyPath = "/efs1/tantest525"
+Bucketname ="tantest525"
+Threads = 1
