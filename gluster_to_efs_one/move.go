@@ -3,12 +3,12 @@ package main
 import (
 	"gluster_to_efs/conf"
 
-	log "efs/log/glog"
+	log "github.com/tansp/glog"
 	"flag"
 
-	efsconf "ecloud_gosdk.v1/conf"
-	"ecloud_gosdk.v1/ecloud"
-	"ecloud_gosdk.v1/ecloudcli"
+	efsconf "github.com/tansp/go-sdk/conf"
+	"github.com/tansp/go-sdk/ecloud"
+	"github.com/tansp/go-sdk/ecloudcli"
 
 	"os"
 	//	libpath "path"
